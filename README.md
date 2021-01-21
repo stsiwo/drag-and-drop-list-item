@@ -1,4 +1,4 @@
-# Horizontal List With Multiple Items
+# Drag and Drop List Item With ReactJS
 
 ## Main Dependencies
 
